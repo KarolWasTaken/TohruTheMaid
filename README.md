@@ -1,6 +1,4 @@
-Hello, I’m @TohruTheMaid.
-
-If you want to reach me for some reason, my discord is 'Tohru#2985'. 
+Tohru#2985 
 
 <!---
 TohruTheMaid/TohruTheMaid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
